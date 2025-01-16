@@ -15,6 +15,6 @@ public class AdressePostale {
 
     public String display(){
         System.out.println("adresse : " + numeroDeRue + nomRue + ville + codePostal);
-        return ("adresse : " + numeroDeRue + nomRue + ville + codePostal);
+        return ("adresse : " + numeroDeRue + nomRue + ville + codePostal  );
     }
 }
